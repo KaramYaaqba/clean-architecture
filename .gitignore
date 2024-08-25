@@ -98,6 +98,8 @@ AppPackages/
 # Others
 [Bb]in
 [Oo]bj
+[Bb]in/
+[Oo]bj/
 sql
 [Tt]est[Rr]esult*
 *.Cache
