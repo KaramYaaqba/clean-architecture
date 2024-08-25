@@ -1,0 +1,8 @@
+2024-08-25 11:36:58.5826 INFO Here is info message from our values controller.
+2024-08-25 11:36:58.5887 DEBUG Here is debug message from our values controller.
+2024-08-25 11:36:58.5887 WARN Here is warn message from our values controller.
+2024-08-25 11:36:58.5887 ERROR Here is an error message from our values controller.
+2024-08-25 11:38:31.6935 INFO Here is info message from our values controller. endpoint injection
+2024-08-25 11:38:31.7025 DEBUG Here is debug message from our values controller. endpoint injection
+2024-08-25 11:38:31.7025 WARN Here is warn message from our values controller. endpoint injection
+2024-08-25 11:38:31.7025 ERROR Here is an error message from our values controller. endpoint injection

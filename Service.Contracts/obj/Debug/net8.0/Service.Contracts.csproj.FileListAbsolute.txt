@@ -1,0 +1,11 @@
+/Users/kyaaqba/repo/personal/Service.Contracts/bin/Debug/net8.0/Service.Contracts.deps.json
+/Users/kyaaqba/repo/personal/Service.Contracts/bin/Debug/net8.0/Service.Contracts.dll
+/Users/kyaaqba/repo/personal/Service.Contracts/bin/Debug/net8.0/Service.Contracts.pdb
+/Users/kyaaqba/repo/personal/Service.Contracts/obj/Debug/net8.0/Service.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kyaaqba/repo/personal/Service.Contracts/obj/Debug/net8.0/Service.Contracts.AssemblyInfoInputs.cache
+/Users/kyaaqba/repo/personal/Service.Contracts/obj/Debug/net8.0/Service.Contracts.AssemblyInfo.cs
+/Users/kyaaqba/repo/personal/Service.Contracts/obj/Debug/net8.0/Service.Contracts.csproj.CoreCompileInputs.cache
+/Users/kyaaqba/repo/personal/Service.Contracts/obj/Debug/net8.0/Service.Contracts.dll
+/Users/kyaaqba/repo/personal/Service.Contracts/obj/Debug/net8.0/refint/Service.Contracts.dll
+/Users/kyaaqba/repo/personal/Service.Contracts/obj/Debug/net8.0/Service.Contracts.pdb
+/Users/kyaaqba/repo/personal/Service.Contracts/obj/Debug/net8.0/ref/Service.Contracts.dll

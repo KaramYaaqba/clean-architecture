@@ -1,0 +1,29 @@
+Get http://localhost:5186/usingmapbranch1?filter2=1
+
+###
+Get http://localhost:5186/api/articles/Get2
+
+###
+POST http://localhost:5186/articles
+Content-Type: application/json
+
+{
+  "title": "Karam .net article",
+  "body": "this is a new article.",
+  "authorId": 2,
+  "createdAt": "2024-08-03"
+}
+
+###
+PUT http://localhost:5186/articles/1
+Content-Type: application/json
+
+{
+  "title": "Bet",
+  "body": "Resdfklsdjfl",
+  "authorId": 1,
+  "createdAt": "2024-08-23"
+}
+
+###
+DELETE http://localhost:5186/articles/1

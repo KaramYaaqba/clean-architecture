@@ -1,0 +1,15 @@
+/Users/kyaaqba/repo/personal/Personal.Presentation/bin/Debug/net8.0/Personal.Presentation.deps.json
+/Users/kyaaqba/repo/personal/Personal.Presentation/bin/Debug/net8.0/Personal.Presentation.dll
+/Users/kyaaqba/repo/personal/Personal.Presentation/bin/Debug/net8.0/Personal.Presentation.pdb
+/Users/kyaaqba/repo/personal/Personal.Presentation/bin/Debug/net8.0/Service.Contracts.dll
+/Users/kyaaqba/repo/personal/Personal.Presentation/bin/Debug/net8.0/Service.Contracts.pdb
+/Users/kyaaqba/repo/personal/Personal.Presentation/obj/Debug/net8.0/Personal.Presentation.csproj.AssemblyReference.cache
+/Users/kyaaqba/repo/personal/Personal.Presentation/obj/Debug/net8.0/Personal.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kyaaqba/repo/personal/Personal.Presentation/obj/Debug/net8.0/Personal.Presentation.AssemblyInfoInputs.cache
+/Users/kyaaqba/repo/personal/Personal.Presentation/obj/Debug/net8.0/Personal.Presentation.AssemblyInfo.cs
+/Users/kyaaqba/repo/personal/Personal.Presentation/obj/Debug/net8.0/Personal.Presentation.csproj.CoreCompileInputs.cache
+/Users/kyaaqba/repo/personal/Personal.Presentation/obj/Debug/net8.0/Personal.73E92331.Up2Date
+/Users/kyaaqba/repo/personal/Personal.Presentation/obj/Debug/net8.0/Personal.Presentation.dll
+/Users/kyaaqba/repo/personal/Personal.Presentation/obj/Debug/net8.0/refint/Personal.Presentation.dll
+/Users/kyaaqba/repo/personal/Personal.Presentation/obj/Debug/net8.0/Personal.Presentation.pdb
+/Users/kyaaqba/repo/personal/Personal.Presentation/obj/Debug/net8.0/ref/Personal.Presentation.dll

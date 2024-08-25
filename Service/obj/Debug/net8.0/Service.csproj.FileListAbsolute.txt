@@ -1,0 +1,17 @@
+/Users/kyaaqba/repo/personal/Service/bin/Debug/net8.0/Service.deps.json
+/Users/kyaaqba/repo/personal/Service/bin/Debug/net8.0/Service.dll
+/Users/kyaaqba/repo/personal/Service/bin/Debug/net8.0/Service.pdb
+/Users/kyaaqba/repo/personal/Service/bin/Debug/net8.0/Contracts.dll
+/Users/kyaaqba/repo/personal/Service/bin/Debug/net8.0/Service.Contracts.dll
+/Users/kyaaqba/repo/personal/Service/bin/Debug/net8.0/Contracts.pdb
+/Users/kyaaqba/repo/personal/Service/bin/Debug/net8.0/Service.Contracts.pdb
+/Users/kyaaqba/repo/personal/Service/obj/Debug/net8.0/Service.csproj.AssemblyReference.cache
+/Users/kyaaqba/repo/personal/Service/obj/Debug/net8.0/Service.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kyaaqba/repo/personal/Service/obj/Debug/net8.0/Service.AssemblyInfoInputs.cache
+/Users/kyaaqba/repo/personal/Service/obj/Debug/net8.0/Service.AssemblyInfo.cs
+/Users/kyaaqba/repo/personal/Service/obj/Debug/net8.0/Service.csproj.CoreCompileInputs.cache
+/Users/kyaaqba/repo/personal/Service/obj/Debug/net8.0/Service.csproj.Up2Date
+/Users/kyaaqba/repo/personal/Service/obj/Debug/net8.0/Service.dll
+/Users/kyaaqba/repo/personal/Service/obj/Debug/net8.0/refint/Service.dll
+/Users/kyaaqba/repo/personal/Service/obj/Debug/net8.0/Service.pdb
+/Users/kyaaqba/repo/personal/Service/obj/Debug/net8.0/ref/Service.dll

@@ -1,0 +1,15 @@
+/Users/kyaaqba/repo/personal/LoggerService/bin/Debug/net8.0/LoggerService.deps.json
+/Users/kyaaqba/repo/personal/LoggerService/bin/Debug/net8.0/LoggerService.dll
+/Users/kyaaqba/repo/personal/LoggerService/bin/Debug/net8.0/LoggerService.pdb
+/Users/kyaaqba/repo/personal/LoggerService/bin/Debug/net8.0/Contracts.dll
+/Users/kyaaqba/repo/personal/LoggerService/bin/Debug/net8.0/Contracts.pdb
+/Users/kyaaqba/repo/personal/LoggerService/obj/Debug/net8.0/LoggerService.csproj.AssemblyReference.cache
+/Users/kyaaqba/repo/personal/LoggerService/obj/Debug/net8.0/LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kyaaqba/repo/personal/LoggerService/obj/Debug/net8.0/LoggerService.AssemblyInfoInputs.cache
+/Users/kyaaqba/repo/personal/LoggerService/obj/Debug/net8.0/LoggerService.AssemblyInfo.cs
+/Users/kyaaqba/repo/personal/LoggerService/obj/Debug/net8.0/LoggerService.csproj.CoreCompileInputs.cache
+/Users/kyaaqba/repo/personal/LoggerService/obj/Debug/net8.0/LoggerSe.E7AEA5A8.Up2Date
+/Users/kyaaqba/repo/personal/LoggerService/obj/Debug/net8.0/LoggerService.dll
+/Users/kyaaqba/repo/personal/LoggerService/obj/Debug/net8.0/refint/LoggerService.dll
+/Users/kyaaqba/repo/personal/LoggerService/obj/Debug/net8.0/LoggerService.pdb
+/Users/kyaaqba/repo/personal/LoggerService/obj/Debug/net8.0/ref/LoggerService.dll
