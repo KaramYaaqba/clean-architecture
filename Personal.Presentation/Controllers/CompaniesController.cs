@@ -6,5 +6,5 @@ namespace Personal.Presentation.Controllers;
 [ApiController]
 public class CompaniesController : ControllerBase
 {
-
+    
 }
