@@ -15,3 +15,8 @@
 /Users/kyaaqba/repo/personal/Service/obj/Debug/net8.0/refint/Service.dll
 /Users/kyaaqba/repo/personal/Service/obj/Debug/net8.0/Service.pdb
 /Users/kyaaqba/repo/personal/Service/obj/Debug/net8.0/ref/Service.dll
+/Users/kyaaqba/repo/personal/Service/bin/Debug/net8.0/Entities.dll
+/Users/kyaaqba/repo/personal/Service/bin/Debug/net8.0/Entities.pdb
+/Users/kyaaqba/repo/personal/Service/obj/Debug/net8.0/Service.sourcelink.json
+/Users/kyaaqba/repo/personal/Service/bin/Debug/net8.0/Shared.dll
+/Users/kyaaqba/repo/personal/Service/bin/Debug/net8.0/Shared.pdb

@@ -18,9 +18,6 @@ public static class ServerExtentions
     public static void ConfigureServiceManager(this IServiceCollection services) =>
         services.AddScoped<IServiceManager, ServiceManager>();
 
-    public static void ConfigureSqlContext(this IServiceCollection services, IConfiguration configuration) =>
-        services.AddDbContext<CompanyDbContext>(opts =>
-        opts.UseSqlite(configuration.GetConnectionString("sqlConnection")));
     public static void ConfigureCors(this IServiceCollection services) =>
         services.AddCors(options =>
         {

@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service", "Service\Service.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Personal.Presentation", "Personal.Presentation\Personal.Presentation.csproj", "{D5AFF10F-683F-4328-BB3F-5AA4A18F2584}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared", "Shared\Shared.csproj", "{C52481A3-E2EC-4A5E-8704-BAD31DD7A625}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -60,5 +62,9 @@ Global
 		{D5AFF10F-683F-4328-BB3F-5AA4A18F2584}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D5AFF10F-683F-4328-BB3F-5AA4A18F2584}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D5AFF10F-683F-4328-BB3F-5AA4A18F2584}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C52481A3-E2EC-4A5E-8704-BAD31DD7A625}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C52481A3-E2EC-4A5E-8704-BAD31DD7A625}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C52481A3-E2EC-4A5E-8704-BAD31DD7A625}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C52481A3-E2EC-4A5E-8704-BAD31DD7A625}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
